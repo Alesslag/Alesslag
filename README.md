@@ -2,7 +2,7 @@
 - 👀 I’m interested in python language and development web
 - 🌱 I’m currently learning python, django, kivy, and all other library 
 - 💞️ I’m looking to collaborate on (not now)
-- 📫 How to reach me at aless.lagumina@gmail.com
+- 📫 How to reach me at none
 
 <!---
 Alesslag/Alesslag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
