@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **futur project**
 
-- 📫 How to reach me **aless.lagumina@gmail.com**
+- 📫 How to reach me **laglumseventpro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
